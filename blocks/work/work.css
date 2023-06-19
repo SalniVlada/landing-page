@@ -1,0 +1,16 @@
+.work {
+  margin-top: 31px;
+  border-radius: 0px 0px 20px 20px;
+  box-shadow: 1px 2px 12px 1px #e2e2e1;
+  transition: 1ms;
+}
+
+.work:hover {
+  box-shadow: 1px 2px 12px 1px #b6c9dd;
+}
+
+@media screen and (max-width:479px) {
+  .work {
+    margin-top: 10px;
+  }
+}

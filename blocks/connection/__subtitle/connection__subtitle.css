@@ -1,0 +1,29 @@
+.connection__subtitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 37px;
+  line-height: 52px;
+  text-align: center;
+  letter-spacing: 1.2px;
+  color: #000000;
+}
+
+@media screen and (max-width:1023px) {
+  .connection__subtitle {
+    font-size: 34px;
+  }
+}
+  
+@media screen and (max-width:767px) {
+  .connection__subtitle {
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width:479px) {
+  .connection__subtitle {
+    font-size: 14px;
+    line-height: 21px;
+  }
+}

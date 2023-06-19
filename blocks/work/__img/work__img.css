@@ -1,0 +1,26 @@
+.work__img {
+  object-fit:cover;
+	width: 100%;
+  max-width: 613px;
+	min-height: 434px;
+	max-height: 434px;
+}
+
+@media screen and (max-width:1280px) {
+  .work__img {
+    max-width: 512px;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .work__img {
+    max-width: 352px;
+  }
+}
+
+@media screen and (max-width:479px) {
+  .work__img {
+    max-width: 288px;
+    min-height: 288px;
+  }
+}

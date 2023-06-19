@@ -1,0 +1,12 @@
+.header {
+  max-width: 1440px;
+  min-height: 76px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+@media screen and (max-width:1024px) {
+  .header {
+    max-width: 1024px;
+  }
+}

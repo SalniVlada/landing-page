@@ -1,0 +1,39 @@
+.preview__subtitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 74px;
+  letter-spacing: 2.56px;
+  color: #757575;
+  max-width: 877px;
+  max-height: 148px;
+  margin: 13px 0px 0px 96px;
+}
+
+@media screen and (max-width:1023px) {
+  .preview__subtitle {
+    font-size: 50px;
+    line-height: 55px;
+    max-width: 670px;
+    margin-left: 50px;
+  }
+}
+
+@media screen and (max-width:767px) {
+  .preview__subtitle {
+    font-size: 31px;
+    line-height: 31px;
+    max-width: 415px;
+    margin: 15px 0px 0px 30px;
+  }
+}
+
+@media screen and (max-width:479px) {
+  .preview__subtitle {
+    font-size: 24px;
+    line-height: 30px;
+    max-width: 300px;
+    margin: 0px 0px 0px 30px;
+  }
+}

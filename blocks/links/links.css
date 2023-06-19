@@ -1,0 +1,6 @@
+@media screen and (max-width:479px) {
+  .links {
+    display: flex;
+    flex-direction: column;
+  }
+}

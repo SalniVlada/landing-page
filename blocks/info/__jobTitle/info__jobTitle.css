@@ -1,0 +1,26 @@
+.info__jobTitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  color: #525252;
+  margin-bottom: 5px;
+}
+
+@media screen and (max-width:767px) {
+  .info__jobTitle {
+    margin-bottom: 8px;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
+@media screen and (max-width:479px) {
+  .info__jobTitle {
+    margin-bottom: 0px;
+    font-size: 12px;
+		margin-top: 0px;
+  }
+}

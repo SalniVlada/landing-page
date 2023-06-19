@@ -1,0 +1,33 @@
+.anchor__link {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  line-height: 30px;
+  letter-spacing: 0.2px;
+  color: #000000;
+  text-decoration: none;
+  margin-right: 32px;
+  opacity: 1;
+  transition: 1s;
+}
+
+.anchor__link:last-child {
+  margin-right: 0px;
+}
+
+.anchor__link:hover {
+  color: #8aa9c8;
+}
+
+@media screen and (max-width:1023px) {
+  .anchor__link {
+    margin-right: 17px;
+  }
+}
+  
+@media screen and (max-width:767px) {
+  .anchor__link {
+    font-size: 15px;
+  }
+}

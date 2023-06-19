@@ -1,0 +1,42 @@
+.connection {
+  max-width: 1248px;
+  min-height: 591px;
+  background: #b6c9dd;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: 128px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width:1280px) {
+  .connection {
+    max-width: 984px;
+    min-height: 591px;
+  }
+}
+
+@media screen and (max-width:1023px) {
+  .connection {
+    max-width: 915px;
+    min-height: 525px;
+		margin-top: 0px;
+  }
+}
+  
+@media screen and (max-width:767px) {
+  .connection {
+    max-width: 677px;
+    min-height: 405px;
+  }
+}
+
+@media screen and (max-width:479px) {
+  .connection {
+    max-width: 320px;
+    min-height: 200px;
+    margin-top: 0px;
+  }
+}

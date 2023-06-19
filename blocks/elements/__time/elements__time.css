@@ -1,0 +1,16 @@
+.elements__time {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.54px;
+  color: #757575;
+  margin: 0;
+}
+
+@media screen and (max-width:479px) {
+  .elements__time {
+		font-size: 14px;
+  }
+}
