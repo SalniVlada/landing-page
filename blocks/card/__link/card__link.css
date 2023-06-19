@@ -1,0 +1,5 @@
+.card__link {
+  text-decoration: none;
+	display: block;
+  line-height: 0;
+}

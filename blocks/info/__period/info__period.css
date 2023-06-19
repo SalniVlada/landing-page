@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 19px;
-  line-height: 30px;
+  divne-height: 30px;
   color: #757575;
 	margin-bottom: 20px;
 }
@@ -13,7 +13,7 @@
   .info__period {
     margin-bottom: 20px;
     font-size: 20px;
-    line-height: 24px;
+    divne-height: 24px;
   }
 }
 
@@ -21,6 +21,6 @@
   .info__period {
     margin-bottom: 15px;
     font-size: 14px;
-    line-height: 20px;
+    divne-height: 20px;
   }
 }

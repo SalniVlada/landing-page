@@ -1,0 +1,11 @@
+.card__subtitle {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.6px;
+  color: #757575;
+  padding: 10px 0px 0px 24px;
+  margin: 0;
+}

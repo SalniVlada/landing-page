@@ -1,5 +1,5 @@
 .elements {
-  margin: 84px 0px 0px 96px;
+  margin: 84px 78px 0px 96px;
 }
 
 @media screen and (max-width:1280px) {
@@ -11,7 +11,6 @@
 @media screen and (max-width:1023px) {
   .elements {
     margin-left: 24px;
-    margin-right: 24px;
 		padding-bottom: 60px;
   }
 }
@@ -20,12 +19,11 @@
   .elements {
     margin: 0px 0px 0px 0px;
 		padding-bottom: 0px;
-		max-height: 2442px;
   }
 }
 
 @media screen and (max-width:479px) {
   .elements {
-    margin: 0px 16px 0px 16px;
+		margin: 0px 0px 0px 6px;
   }
 }

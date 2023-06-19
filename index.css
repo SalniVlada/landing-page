@@ -14,14 +14,12 @@
 @import url(./blocks/elements/__time/elements__time.css);
 @import url(./blocks/elements/__header/elements__header.css);
 
-@import url(./blocks/works/works.css);
-@import url(./blocks/work/work.css);
-@import url(./blocks/work/__img/work__img.css);
-@import url(./blocks/work/__info/work__info.css);
-@import url(./blocks/work/__title/work__title.css);
-@import url(./blocks/work/__subtitle/work__subtitle.css);
-@import url(./blocks/work/__link/work__link.css);
-@import url(./blocks/cards/cards.css);
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/__img/card__img.css);
+@import url(./blocks/card/__info/card__info.css);
+@import url(./blocks/card/__title/card__title.css);
+@import url(./blocks/card/__subtitle/card__subtitle.css);
+@import url(./blocks/card/__link/card__link.css);
 
 
 @import url(./blocks/info/info.css);
@@ -51,3 +49,5 @@
 @import url(./blocks/btn/_visible/btn_visible.css);
 
 @import url(./blocks/button/button.css);
+
+@import url(./blocks/container/container.css);

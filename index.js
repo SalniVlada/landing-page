@@ -16,7 +16,7 @@ const displayButton = () => {
 };
 
 const scrollToTop = () => {
-  button.addEventListener("click", () => {
+  buttonTop.addEventListener("click", () => {
     window.scroll({
       top: 0,
       left: 0,

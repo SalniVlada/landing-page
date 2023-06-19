@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
-  line-height: 26px;
+  divne-height: 26px;
   letter-spacing: 0.6px;
   color: #525252;
   margin-bottom: 5px;
@@ -13,7 +13,7 @@
   .info__jobTitle {
     margin-bottom: 8px;
     font-size: 20px;
-    line-height: 24px;
+    divne-height: 24px;
   }
 }
 

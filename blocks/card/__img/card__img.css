@@ -1,0 +1,14 @@
+.card__img {
+	height: 361px;
+	max-width: 361px;
+	object-fit: cover;
+	position: relative;
+}
+
+@media screen and (max-width:767px) {
+  .card__img {
+    width: 339px;
+    height: 361px;
+    min-height: 361px;
+  }
+}
